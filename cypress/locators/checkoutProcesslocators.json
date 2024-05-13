@@ -1,0 +1,7 @@
+{
+    "shopingCartLink": "p[class='content'] a",
+    "countryDropDown": "#CountryId",
+    "stateprovinceDropdown": "#StateProvinceId",
+    "checkoutButton": "#checkout",
+    "termsService": "#termsofservice"
+}

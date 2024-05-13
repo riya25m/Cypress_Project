@@ -1,0 +1,14 @@
+{
+    "productList" : ".product-grid",
+    "currentItem" : "strong[class='current-item']",
+    "recipientName" : "#giftcard_2_RecipientName",
+    "recipientEmail" : "#giftcard_2_RecipientEmail",
+    "yourName" : "#giftcard_2_SenderName",
+    "yourEmail" : "#giftcard_2_SenderEmail",
+    "message": "#giftcard_2_Message",
+    "qty": ".qty-input",
+    "addtocartButton": "#add-to-cart-button-2",
+    "validNotification": "p[class='content']",
+    "addtoCartButton2": "input[class='button-1 add-to-cart-button']",
+    "similarProduct": "div[class='item-box']"
+}

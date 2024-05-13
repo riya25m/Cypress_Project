@@ -1,0 +1,15 @@
+{
+    "searchBar" : ".search-box-text",
+    "searchButton" : ".search-box .button-1",
+    "searchDropDownMenu" : ".ui-autocomplete",
+    "searchResult" : ".search-results",
+    "searchDropDownList" : ".ui-autocomplete li",
+    "dropdownResult" : "h1[itemprop='name']",
+    "advancedSearchCheckBox" : ".inputs #As",
+    "category" : "#Cid",
+    "manufacturer" : "#Mid",
+    "priceFrom" : ".price-from",
+    "priceTo" : ".price-to",
+    "searchInsideInput" : ".search-input .button-1",
+    "h1tag": "$h1"
+}

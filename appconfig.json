@@ -1,0 +1,6 @@
+{
+    "env":"qa",
+    "qa":{
+        "url":"https://demowebshop.tricentis.com/"
+    }
+}
